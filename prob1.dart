@@ -42,3 +42,24 @@
 // }
 
 
+// Create a function that always returns true for every item in a given list.
+// However, if an element is the word "flick", switch to always returning the opposite boolean value.
+
+
+// void main() {
+//   List<String> input = ["Apple", "Orange", "Mango", "flick", "Banana"];
+//   List<bool> result = flickSwitch(input);
+//   print(result);
+// }
+// List<bool> flickSwitch(List<String> lst) {
+//   List<bool>a=[];
+//   bool z = true;
+//   for(var x in lst){
+//     if(x == "flick"){
+//       z =!z;
+//     }
+//     a.add(z);
+//   }
+//   return a;
+// }
+
