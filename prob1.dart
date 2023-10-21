@@ -63,3 +63,36 @@
 //   return a;
 // }
 
+// In this simple assignment you are given a number and have to make it negative. But maybe the number is already negative?
+
+// void main(){
+//   print(makeNegative(145));
+//   print(makeNegative(-35));
+//   print(makeNegative(14));
+//   print(makeNegative(-245));
+//   print(makeNegative(224));
+
+// }
+
+//  num makeNegative( n) {
+//   if(n >0){
+//     return -n;
+//   }else{
+//     return n;
+//   }
+// }
+
+
+
+
+  // Make a function that will return a greeting statement that uses an input; your program should return,
+
+//   void main(){
+//     String name ="gokul";
+//     print(greet(name));
+//   }
+
+//   String greet(String name) {
+//   return "Hello, $name how are you doing today?";
+// }
+
