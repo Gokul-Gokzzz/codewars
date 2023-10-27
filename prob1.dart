@@ -126,6 +126,6 @@ void main() {
   String str1 = "HELLO";
   String str2 = "Hello";
   
-  print(isUpperCase(str1)); // Output: true
-  print(isUpperCase(str2)); // Output: false
+  print(isUpperCase(str1)); 
+  print(isUpperCase(str2)); 
 }
