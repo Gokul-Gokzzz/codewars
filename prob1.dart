@@ -96,3 +96,21 @@
 //   return "Hello, $name how are you doing today?";
 // }
 
+
+
+// Square(n) Sum
+
+// void main(){
+//   List<int> numbers = [1,2,2,3];
+//   int res =squareSum(numbers);
+//   print(res);
+// }
+
+// int squareSum(List numbers) {
+//   int sum=0;
+//   for(int x in numbers){
+//     sum=sum+x*x;
+//   }
+//   return sum;
+// }
+
